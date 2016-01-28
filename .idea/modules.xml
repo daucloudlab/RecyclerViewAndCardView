@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ListsAndCards.iml" filepath="$PROJECT_DIR$/ListsAndCards.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RecyclerViewAndCardView.iml" filepath="$PROJECT_DIR$/RecyclerViewAndCardView.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
